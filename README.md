@@ -1,6 +1,6 @@
 #### Sangmin Jo
 * Hi there!👋 I'm student of physics, university of seoul. 
-* My research interests include Deep learning, Computer Vision, Meta-Learning, Signal Processing and Medical AI
+* My research interests include Deep learning, EEG, Signal Processing, Self-Supvervised Learning and Repesentation Learning
 
 
 
