@@ -1,11 +1,11 @@
 #### Sangmin Jo
-* Hi there!👋 I'm student of physics, university of seoul. 
-* My research interests include Deep learning, EEG, Signal Processing, Self-Supvervised Learning and Representation Learning
+* Hi there!👋 I'm an integrated M.S/Ph.D student of Artificial Intelligence, Korea University.
+* My research interests include Deep learning, EEG, Signal Processing, Self-Supvervised Learning and domain generalization
 
 
 
 #### contact
-* E-mail: whtkdals456@uos.ac.kr
+* E-mail: sangminjo@korea.ac.kr
 
 
 #### 💪 Skills
